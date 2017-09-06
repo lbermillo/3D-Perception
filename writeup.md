@@ -1,4 +1,4 @@
-#Perception Project Writeup
+# Perception Project Writeup
 
 Before I implemented the exercises in the perception pipeline, 
 I had to first apply statistical filter to remove noise from the data like so,
